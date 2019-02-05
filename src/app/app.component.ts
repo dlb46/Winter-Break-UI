@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import { EndpointService } from './services/endpoint.service';
+import { EndpointService } from './services2/endpoint.service';
 import { Validators, FormGroup, FormArray, FormBuilder } from '@angular/forms';
-import { HttpService } from './services/http.service';
+import { HttpService } from './services2/http.service';
 
 @Component({
   selector: 'app-root',

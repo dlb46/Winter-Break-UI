@@ -6,8 +6,8 @@ import { HttpClientModule } from '@angular/common/http';
 
 
 import { AppComponent } from './app.component';
-import { EndpointService } from './services/endpoint.service';
-import { HttpService } from './services/http.service';
+import { EndpointService } from './services2/endpoint.service';
+import { HttpService } from './services2/http.service';
 
 
 @NgModule({
