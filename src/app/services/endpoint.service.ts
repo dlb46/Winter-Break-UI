@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { endpoint } from '../../assets/api/mock-endpoint3';
+import { endpoint } from '../../assets/api/mock-endpoint4';
 
 @Injectable()
 export class EndpointService {
